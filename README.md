@@ -9,9 +9,9 @@ To find which is a better model in regression,there are many regression techniqu
 **1. R – Squared**
 It is also called as coefficient determination. If the R-square value is low then our model is bad. If R -square value is high then our model is good. It is a range between 0 to 1
 
-R2  = 1 - SSresidual / SStotal  
-SStotal = 1/n Σ(yi - ypred_mean)2 
-SSresidual =  1/n Σ(yi - ypred)2         #SS - Sum of Squares
+* R2  = 1 - SSresidual / SStotal 
+* SStotal = 1/n Σ(yi - ypred_mean)2 
+* SSresidual =  1/n Σ(yi - ypred)2         #SS - Sum of Squares
 
 SSresidual = 0 then R2 = 1 ; machine learning model is good.
 SStotal> SSresidual ; R2 lies in between 0 to 1.
