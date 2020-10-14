@@ -13,10 +13,10 @@ It is also called as coefficient determination. If the R-square value is low the
 * SStotal = 1/n Σ(yi - ypred_mean)2 
 * SSresidual =  1/n Σ(yi - ypred)2         #SS - Sum of Squares
 
-SSresidual = 0 then R2 = 1 ; machine learning model is good.
-SStotal> SSresidual ; R2 lies in between 0 to 1.
-SStotal= SSresidual ; R2 =0 is a simply mean model.
-SStotal < SSresidual ; R2 is negative. so our machine learning model is worst.
+- SSresidual = 0 then R2 = 1 ; machine learning model is good.
+- SStotal> SSresidual ; R2 lies in between 0 to 1.
+- SStotal= SSresidual ; R2 =0 is a simply mean model.
+- SStotal < SSresidual ; R2 is negative. so our machine learning model is worst.
 
 **2. MSE (Mean Squared Error)**
 Mean Squared Error is a technique to compute errors in regression machine learning models. It is very simple to compute and interpretable. we calculate the sum of squares of errors of model predictions.
