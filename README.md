@@ -33,6 +33,24 @@ There is a sweetline between horizontal and vertical line. That is called the **
 __How do we find least sum of squared residual by rotating each line??__
 ![Screenshot (67)](https://user-images.githubusercontent.com/58145503/96095265-07270300-0eec-11eb-8fbe-54dae1ec2ab3.png)
 
+we take derivates of each resudial and these derivates tell us slope and intercept of each sum of residual.
+![Screenshot (68)](https://user-images.githubusercontent.com/58145503/96095945-e7dca580-0eec-11eb-8285-0c619af43261.png)
+![Screenshot (69)](https://user-images.githubusercontent.com/58145503/96095947-e9a66900-0eec-11eb-8f1c-0641d1628308.png)
+![Screenshot (72)](https://user-images.githubusercontent.com/58145503/96095949-ead79600-0eec-11eb-83d969e905a81d8a.png)
+![Screenshot (73)](https://user-images.githubusercontent.com/58145503/96095951-eb702c80-0eec-11eb-8e36-0df436d47458.png)
+ 
+ we can curves of sum of square residuals by taking slope and intercept of each line and find the optimal curve for residuals
+![Screenshot (78)](https://user-images.githubusercontent.com/58145503/96096372-68030b00-0eed-11eb-8cc4-fae68694cf6f.png)
+![Screenshot (74)](https://user-images.githubusercontent.com/58145503/96096375-69ccce80-0eed-11eb-903f-71ef5bf76237.png)
+![Screenshot (75)](https://user-images.githubusercontent.com/58145503/96096377-6a656500-0eed-11eb-9c26-65ddf5ba5eab.png)
+![Screenshot (76)](https://user-images.githubusercontent.com/58145503/96096380-6afdfb80-0eed-11eb-9679-3526389b51d2.png)
+![Screenshot (77)](https://user-images.githubusercontent.com/58145503/96096386-6b969200-0eed-11eb-993423dfd384389e.png)
+
+**There are three big important concepts in linear regression**
+![Screenshot (80)](https://user-images.githubusercontent.com/58145503/96096664-b4e6e180-0eed-11eb-8f76-7952551119d6.png)
+![Screenshot (82)](https://user-images.githubusercontent.com/58145503/96096675-b6b0a500-0eed-11eb-834f-5d7b426126ca.png)
+![Screenshot (79)](https://user-images.githubusercontent.com/58145503/96096677-b7493b80-0eed-11eb-9f9c-f03876f04319.png)
+
 
 ## Model Evaluation techniques for Regression
 To find which is a better model in regression,there are many regression techniques, here we are some most commonly used evaluation metrics in machine learning
