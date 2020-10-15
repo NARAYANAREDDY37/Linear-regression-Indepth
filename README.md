@@ -18,12 +18,20 @@ what it we rotate the line downwards and calculate the residuals?? can it reduce
 ![Screenshot (56)](https://user-images.githubusercontent.com/58145503/96087401-6a5f6800-0ee1-11eb-80f8-30b2d5c5fac2.png)
 By rotating the I can able to reduce the error and it is better than before. But how much should I rotate??
 
-![Screenshot (59)](https://user-images.githubusercontent.com/58145503/96094257-c8447d80-0eea-11eb-8913-ffd7d6efe4ad.png)
+![Screenshot (58)](https://user-images.githubusercontent.com/58145503/96094265-c975aa80-0eea-11eb-89fe-ebd9fe627902.png)
 This even better!!
 
-![Screenshot (58)](https://user-images.githubusercontent.com/58145503/96094265-c975aa80-0eea-11eb-89fe-ebd9fe627902.png)
+![Screenshot (59)](https://user-images.githubusercontent.com/58145503/96094257-c8447d80-0eea-11eb-8913-ffd7d6efe4ad.png)
 But what if we go on roatating?? again the errror value is increased. 
 
+There is a sweetline between horizontal and vertical line. That is called the **best fit line**
+
+![Screenshot (62)](https://user-images.githubusercontent.com/58145503/96095067-be6f4a00-0eeb-11eb-96f0-fd06d8512ab3.png)
+![Screenshot (64)](https://user-images.githubusercontent.com/58145503/96095251-042c1280-0eec-11eb-9195-f179915c5c81.png)
+![Screenshot (65)](https://user-images.githubusercontent.com/58145503/96095259-05f5d600-0eec-11eb-84bc-1aeedb8bad3c.png)
+
+__How do we find least sum of squared residual by rotating each line??__
+![Screenshot (67)](https://user-images.githubusercontent.com/58145503/96095265-07270300-0eec-11eb-8fbe-54dae1ec2ab3.png)
 
 
 ## Model Evaluation techniques for Regression
