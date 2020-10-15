@@ -4,6 +4,13 @@
 
 ![Screenshot (48)](https://user-images.githubusercontent.com/58145503/96085261-2f0f6a00-0ede-11eb-8dc4-236d7d94eff6.png)
 
+Now, how can you determine that which is the best fit line for that data???
+
+so, we can measure how well this line fits the data by seeing how close it is to the data points 
+
+![Screenshot (53)](https://user-images.githubusercontent.com/58145503/96086375-dccf4880-0edf-11eb-9c69-5eb9caeaee54.png)
+* note: If there are points above the line those are negative values so we take square of the differnce to avoid negative values. This is called the total sum of squared residuals
+
 
 ## Model Evaluation techniques for Regression
 To find which is a better model in regression,there are many regression techniques, here we are some most commonly used evaluation metrics in machine learning
