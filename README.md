@@ -1,5 +1,10 @@
 # Simple-linear-regression-Indepth
 
+## Fitting a line to data aka Least squares
+
+![Screenshot (48)](https://user-images.githubusercontent.com/58145503/96085261-2f0f6a00-0ede-11eb-8dc4-236d7d94eff6.png)
+
+
 ## Model Evaluation techniques for Regression
 To find which is a better model in regression,there are many regression techniques, here we are some most commonly used evaluation metrics in machine learning
 1.R-Squared
