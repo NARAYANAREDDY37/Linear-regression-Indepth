@@ -8,8 +8,15 @@ Now, how can you determine that which is the best fit line for that data???
 
 so, we can measure how well this line fits the data by seeing how close it is to the data points 
 
-![Screenshot (53)](https://user-images.githubusercontent.com/58145503/96086375-dccf4880-0edf-11eb-9c69-5eb9caeaee54.png)
-* note: If there are points above the line those are negative values so we take square of the differnce to avoid negative values. This is called the total sum of squared residuals
+![Screenshot (55)](https://user-images.githubusercontent.com/58145503/96086836-86163e80-0ee0-11eb-86b7-f44e60df3b6e.png)
+
+For example, Here I have taken horizontal line to calculate to residuals. 
+* note: If there are points above the line those are negative values so we take square of the differnce to avoid negative values. This is called the total sum of squared residuals and we got 24.62
+
+what it we rotate the line downwards and calculate the residuals?? can it reduce total sum of squares?? The answer is yes!!!
+
+![Screenshot (56)](https://user-images.githubusercontent.com/58145503/96087401-6a5f6800-0ee1-11eb-80f8-30b2d5c5fac2.png)
+By rotating the I can able to reduce the error and it is better than before. But how much should I rotate??
 
 
 ## Model Evaluation techniques for Regression
