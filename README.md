@@ -1,6 +1,6 @@
-## Simple-linear-regression-Indepth
+# Simple-linear-regression-Indepth
 
-# Model Evaluation techniques for Regression
+## Model Evaluation techniques for Regression
 To find which is a better model in regression,there are many regression techniques, here we are some most commonly used evaluation metrics in machine learning
 1.R-Squared
 2.MSE (Mean Squared Error)
